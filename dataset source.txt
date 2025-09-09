@@ -1,0 +1,2 @@
+
+A. Aaba, “Wildfire prediction dataset (satellite images),” Kaggle, Feb. 2023. [Dataset]. Available: https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
